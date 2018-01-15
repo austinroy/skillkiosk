@@ -1,0 +1,28 @@
+[
+	{
+		"id": 1,
+        "username": "random-user",
+        "first_name": "Random",
+        "last_name": "User",
+        "profile": {
+            "avatar": "https:avatar-url",
+            "bio": "I am a user"
+        },
+        "skills" : [
+            "Gardening"  
+        ]
+    },
+    {
+		"id": 2,
+        "username": "other-user",
+        "first_name": "Other",
+        "last_name": "User",
+        "profile": {
+            "avatar": "https:avatar-url",
+            "bio": "I am another user "
+        },
+        "skills" : [
+           "Gardening" 
+        ]
+    }
+ ]
